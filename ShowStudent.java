@@ -1,4 +1,4 @@
-package com.company;
+package Repo;
 
 public class ShowStudent {
     public static void main(String[] args)
@@ -19,7 +19,8 @@ public class ShowStudent {
         System.out.println("Number of points: " + student1.getPoints());
         System.out.println("GPA: " + gradepoint);
 
-
+//New Code By Patrick
+        System.out.println("Perde kami sa CBA valo");
     }//End main method
 
 }//end class

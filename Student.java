@@ -1,4 +1,4 @@
-package com.company;
+package Repo;
 
 public class Student {
     private int StudID;
